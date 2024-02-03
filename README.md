@@ -1,5 +1,5 @@
 # fortnite-external
-* aka pasterx. not updated
+aka pasterx. not updated
 
 # Currently I'm selling most of my sources:
   - Fortnite External Source
